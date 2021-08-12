@@ -1,0 +1,16 @@
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\bin\Debug\net5.0\Grib2NetCore.exe
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\bin\Debug\net5.0\Grib2NetCore.deps.json
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\bin\Debug\net5.0\Grib2NetCore.runtimeconfig.json
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\bin\Debug\net5.0\Grib2NetCore.runtimeconfig.dev.json
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\bin\Debug\net5.0\Grib2NetCore.dll
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\bin\Debug\net5.0\ref\Grib2NetCore.dll
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\bin\Debug\net5.0\Grib2NetCore.pdb
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\Grib2NetCore.csproj.AssemblyReference.cache
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\Grib2NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\Grib2NetCore.AssemblyInfoInputs.cache
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\Grib2NetCore.AssemblyInfo.cs
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\Grib2NetCore.csproj.CoreCompileInputs.cache
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\Grib2NetCore.dll
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\ref\Grib2NetCore.dll
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\Grib2NetCore.pdb
+C:\Users\LiuHa\source\repos\Grib2NetCore\Grib2NetCore\obj\Debug\net5.0\Grib2NetCore.genruntimeconfig.cache
