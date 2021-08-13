@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SourceCodes\\GitHub\\Grib2NetCore\\Grib2NetCore\\Grib2NetCore\\Grib2NetCore.csproj",
+      "projectUniqueName": "D:\\SourceCodes\\GitHub\\Grib2NetCore\\Grib2NetCore\\Grib2NetCore.csproj",
       "projectName": "Grib2NetCore",
-      "projectPath": "D:\\SourceCodes\\GitHub\\Grib2NetCore\\Grib2NetCore\\Grib2NetCore\\Grib2NetCore.csproj",
+      "projectPath": "D:\\SourceCodes\\GitHub\\Grib2NetCore\\Grib2NetCore\\Grib2NetCore.csproj",
       "packagesPath": "C:\\Users\\LiuHa\\.nuget\\packages\\",
-      "outputPath": "D:\\SourceCodes\\GitHub\\Grib2NetCore\\Grib2NetCore\\Grib2NetCore\\obj\\",
+      "outputPath": "D:\\SourceCodes\\GitHub\\Grib2NetCore\\Grib2NetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LiuHa\\AppData\\Roaming\\NuGet\\NuGet.Config",
